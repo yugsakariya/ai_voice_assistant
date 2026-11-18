@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+gTTS
+groq
+python-dotenv
